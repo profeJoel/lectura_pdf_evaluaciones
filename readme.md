@@ -1,6 +1,6 @@
 # Lectura de archivo PDF
 - Clonar repositorio github (instalar git)
-    > git clone 
+    > git clone https://github.com/profeJoel/lectura_pdf_evaluaciones.git
 - Crea un entorno de desarrollo
     > python -m venv venv
 - Levantar entorno
